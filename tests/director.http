@@ -1,0 +1,7 @@
+GET http://localhost:5000/directors/
+Accept: application/json
+
+###
+
+GET http://localhost:5000/directors/2
+Accept: application/json
